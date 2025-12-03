@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "advent_2025"
+version = "0.1.0"
+description = ""
+authors = ["Jake Haversat <jhaversat@medasync.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pydantic = "^2.12.5"
+ipython = "^9.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
