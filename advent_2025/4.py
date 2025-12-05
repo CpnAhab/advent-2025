@@ -1,5 +1,4 @@
 from .util import import_text
-from pydantic import BaseModel
 import itertools
 
 
